@@ -7,7 +7,7 @@
 
 ---
 
-## What I'm Building
+## What I'm Building 
 
 I'm a **Microsoft SC-200 certified Security Operations Analyst** specialising in blue team operations on the Microsoft security stack — working toward a SOC analyst role in Spain or remote across the EU.
 

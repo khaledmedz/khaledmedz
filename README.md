@@ -47,16 +47,13 @@ Lab Environment      Microsoft 365 E5 tenant · Azure subscription · Real attac
 
 ## 🏅 Certifications
 
-<table>
   <tr>
     <td>
       <strong>Microsoft Certified: Security Operations Analyst Associate</strong><br/>
       SC-200 · Issued Jun 2026 · ID: 7ABED282001BBED2
     </td>
-    <td>
-
-
----
+    
+##
 
 ## 🌍 Languages
 

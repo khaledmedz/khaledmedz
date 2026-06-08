@@ -1,6 +1,6 @@
 # Hi, I'm Khaled 👋
 
-> *After +10 years as a in supervisory IT and telecommunications role in Dubai and before that years of experience in technical support engineering at Huawei and ZTE —*
+> *After +10 years in a supervisory IT and telecommunications role in Dubai and before that years of experience in technical support engineering at Huawei and ZTE —*
 > *I've come back to my technical roots, this time with a clear destination: **cybersecurity.***
 >
 > *Spain is not just where I landed. It's where I chose to build what comes next.*
